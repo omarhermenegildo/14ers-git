@@ -41,4 +41,8 @@ The markdown template is below generally.
 
 ## Interesting fact
 
-***
+**********************************************
+2022.01.24
+*first contribution Omar Hermenegildo
+*adding anonymous call to function expression
+**********************************************
